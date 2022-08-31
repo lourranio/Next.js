@@ -1,1 +1,5 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+Pra usar o template do Next:
+
+1. cd nextjs-blog
+
+2. npm run dev
